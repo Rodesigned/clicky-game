@@ -1,5 +1,5 @@
 # clicky-game
-     Here is the link https://vast-beach-58750.herokuapp.com/
+     Here is the link https://rodesigned.github.io/clicky-game/
  
 ## Overview
 

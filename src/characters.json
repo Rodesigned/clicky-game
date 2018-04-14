@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "/images//angela.jpg"
+  },
+  {
+    "id": 2,
+    "image": "/images//character.jpg"
+  },
+  {
+    "id": 3,
+    "image": "/images//wkabi.jpg"
+  },
+  {
+    "id": 4,
+    "image": "/images//suri.jpg"
+  },
+  {
+    "id": 5,
+    "image": "/images//forest.jpg"
+  },
+  {
+    "id": 6,
+    "image": "/images//klaue.jpg"
+  },
+  {
+    "id": 7,
+    "image": "/images//negra.jpg"
+  },
+  {
+    "id": 8,
+    "image": "/images//killmonger.jpg"
+  },
+  {
+    "id": 9,
+    "image": "/images//nakia.jpg"
+  },
+  {
+    "id": 10,
+    "image": "/images//oldman.jpg"
+  },
+  {
+    "id": 11,
+    "image": "/images//everett.jpg"
+  },
+  {
+    "id": 12,
+    "image": "/images//okoye.jpg"
+  }
+]
